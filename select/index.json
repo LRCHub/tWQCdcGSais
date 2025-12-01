@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "リリース",
+  "base_artist": "Imagine Dragons",
+  "createdAt": "2025-12-01T05:29:01.274121Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Release me",
+      "artist": "一青 窈",
+      "has_synced": false,
+      "path": "select/pl_01_Release_me_一青_窈.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Release Yourself",
+      "artist": "一青 窈",
+      "has_synced": false,
+      "path": "select/pl_02_Release_Yourself_一青_窈.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Release & Surrender",
+      "artist": "一青 窈",
+      "has_synced": false,
+      "path": "select/pl_03_Release_&_Surrender_一青_窈.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Release",
+      "artist": "一青 窈",
+      "has_synced": false,
+      "path": "select/pl_04_Release_一青_窈.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Release Me",
+      "artist": "一青 窈",
+      "has_synced": false,
+      "path": "select/pl_05_Release_Me_一青_窈.txt"
+    }
+  ]
+}
